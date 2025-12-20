@@ -5,9 +5,9 @@ Bboss is a good elasticsearch Java rest client. It operates and accesses elastic
 
 JDK requirement: JDK 1.8+
 
-Elasticsearch version requirements: 1.x,2.X,5.X,6.X,8.x,+
+Elasticsearch version requirements: 1.x,2.X,5.X,6.X,8.x,9.x,+
 
-Spring booter 1.x,2.x,+
+Spring booter 1.x,2.x,3.x,+
 # bboss elasticsearch 数据导入工具xx job定时任务调度demo
 使用本demo所带的应用程序运行容器环境，可以快速编写、打包发布可运行在分布式定时任务引擎xx job的数据同步任务。
 
@@ -15,7 +15,7 @@ Spring booter 1.x,2.x,+
 mysql,maridb，postgress,oracle ,sqlserver,db2，hive等
 
 支持的Elasticsearch版本：
-1.x,2.x,5.x,6.x,7.x,8.x,+
+1.x,2.x,5.x,6.x,7.x,8.x,9.x,+
 
 支持海量PB级数据同步导入功能
 
